@@ -25,8 +25,8 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;Actualmente estoy en tercer año de ingeniería en informática en Incap Chile.\
-✍️ &nbsp;En mi tiempo libre, me dedico desarrollar aplicaciones web y a hacer cursos de programación.\
+🎓 &nbsp;Actualmente estoy en cuarto y ultimo año de ingeniería en informática en Inacap Chile.\
+✍️ &nbsp;En mi tiempo libre, me dedico desarrollar aplicaciones web/moviles y a hacer cursos de programación.\
 💬 &nbsp;No dude en comunicarse conmigo si le intereso para un puesto de trabajo.\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a gr4ciany@gmail.com! Intentaré responder tan pronto como pueda.\
 📄 &nbsp;Por favor, eche un vistazo a mi [currículum](https://drive.google.com/file/d/14QmO8jWKCZDMWozwCdm7O3i68iOdyjte/view?usp=sharing) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
