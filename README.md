@@ -29,7 +29,7 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico desarrollar aplicaciones web/moviles y a hacer cursos de programación.\
 💬 &nbsp;No dude en comunicarse conmigo si le intereso para un puesto de trabajo.\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a gr4ciany@gmail.com! Intentaré responder tan pronto como pueda.\
-📄 &nbsp;Por favor, eche un vistazo a mi [currículum](https://drive.google.com/file/d/14QmO8jWKCZDMWozwCdm7O3i68iOdyjte/view?usp=sharing) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+📄 &nbsp;Por favor, eche un vistazo a mi [currículum](https://drive.google.com/file/d/1JhD8xK3E2SquKn74JQL3PXTHHjl3c6kE/view?usp=sharing) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 <div align="center">
   <h1 align="center">Stack</h1>
