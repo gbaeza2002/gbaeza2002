@@ -24,12 +24,17 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;Actualmente estoy en cuarto y ultimo año de ingeniería en informática en Inacap Chile.\
-✍️ &nbsp;En mi tiempo libre, me dedico desarrollar aplicaciones web/moviles y a hacer cursos de programación.\
-💬 &nbsp;No dude en comunicarse conmigo si le intereso para un puesto de trabajo.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a gr4ciany@gmail.com! Intentaré responder tan pronto como pueda.\
-📄 &nbsp;Por favor, eche un vistazo a mi [currículum](https://drive.google.com/file/d/1JhD8xK3E2SquKn74JQL3PXTHHjl3c6kE/view?usp=sharing) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+💡 &nbsp;Apasionado por explorar nuevas tecnologías y construir soluciones de software útiles, eficientes y bien diseñadas. Siempre buscando aprender algo nuevo y mejorar lo que ya existe.
+🎓 &nbsp;Ingeniero en Informática egresado de INACAP Chile.
+🚀 &nbsp;Desarrollo aplicaciones web y móviles, además de crear herramientas que optimizan procesos reales (especialmente en entornos como laboratorios).
+🧠 &nbsp;Me interesa el desarrollo backend, la arquitectura de sistemas y la automatización de tareas.
+
+🌐 &nbsp;👉 **Revisa mi portafolio aquí:**  
+🔗 https://graciany-baeza-portfolio.vercel.app/
+
+💬 &nbsp;Estoy abierto a oportunidades laborales, colaboración en proyectos o simplemente conversar sobre tecnología.
+✉️ &nbsp;Contáctame en: **gr4ciany@gmail.com**
+📄 &nbsp;Puedes ver más detalles en mi [currículum](https://drive.google.com/file/d/1JhD8xK3E2SquKn74JQL3PXTHHjl3c6kE/view?usp=sharing)
 
 <div align="center">
   <h1 align="center">Stack</h1>
