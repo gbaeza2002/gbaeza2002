@@ -31,10 +31,9 @@ Siempre buscando aprender algo nuevo y mejorar lo que ya existe.
 
 🎓 Ingeniero en Informática egresado de INACAP Chile.
 
-🚀 Desarrollo aplicaciones web y móviles, además de crear herramientas que optimizan procesos reales  
-(especialmente en entornos como laboratorios).
+🚀 Desarrollo aplicaciones web y móviles, además de crear herramientas que optimizan procesos reales.
 
-🧠 Me interesa el desarrollo backend, la arquitectura de sistemas y la automatización de tareas.
+🧠 Me interesa el desarrollo Full Stack, la arquitectura de sistemas y la automatización de tareas.
 
 ---
 
