@@ -24,17 +24,30 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Apasionado por explorar nuevas tecnologías y construir soluciones de software útiles, eficientes y bien diseñadas. Siempre buscando aprender algo nuevo y mejorar lo que ya existe.
-🎓 &nbsp;Ingeniero en Informática egresado de INACAP Chile.
-🚀 &nbsp;Desarrollo aplicaciones web y móviles, además de crear herramientas que optimizan procesos reales (especialmente en entornos como laboratorios).
-🧠 &nbsp;Me interesa el desarrollo backend, la arquitectura de sistemas y la automatización de tareas.
+## 🧑‍💻 Sobre mí
 
-🌐 &nbsp;👉 **Revisa mi portafolio aquí:**  
+💡 Apasionado por explorar nuevas tecnologías y construir soluciones de software útiles, eficientes y bien diseñadas.  
+Siempre buscando aprender algo nuevo y mejorar lo que ya existe.
+
+🎓 Ingeniero en Informática egresado de INACAP Chile.
+
+🚀 Desarrollo aplicaciones web y móviles, además de crear herramientas que optimizan procesos reales  
+(especialmente en entornos como laboratorios).
+
+🧠 Me interesa el desarrollo backend, la arquitectura de sistemas y la automatización de tareas.
+
+---
+
+🌐 👉 **Revisa mi portafolio aquí:**  
 🔗 https://graciany-baeza-portfolio.vercel.app/
 
-💬 &nbsp;Estoy abierto a oportunidades laborales, colaboración en proyectos o simplemente conversar sobre tecnología.
-✉️ &nbsp;Contáctame en: **gr4ciany@gmail.com**
-📄 &nbsp;Puedes ver más detalles en mi [currículum](https://drive.google.com/file/d/1JhD8xK3E2SquKn74JQL3PXTHHjl3c6kE/view?usp=sharing)
+---
+
+💬 Estoy abierto a oportunidades laborales, colaboración en proyectos o simplemente conversar sobre tecnología.
+
+✉️ Contáctame en: **gr4ciany@gmail.com**
+
+📄 Puedes ver más detalles en mi [currículum](https://drive.google.com/file/d/1JhD8xK3E2SquKn74JQL3PXTHHjl3c6kE/view?usp=sharing)
 
 <div align="center">
   <h1 align="center">Stack</h1>
