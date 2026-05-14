@@ -54,14 +54,14 @@ Siempre buscando aprender algo nuevo y mejorar lo que ya existe.
  ### 🛠 &nbsp;Lenguajes
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,php" />
   </a>
 </p>
 
 ### 🛠 &nbsp;Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,express,nextjs,nodejs,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=django,flask,express,nextjs,nodejs,react,tailwind,bootstrap,laravel" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Siempre buscando aprender algo nuevo y mejorar lo que ya existe.
 ### 🛠 &nbsp;Otros
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,pug,figma,github,linux,vscode,html,css"/>
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,github,linux,vscode,html,css"/>
   </a>
 </p>
 </div>
