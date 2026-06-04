@@ -22,8 +22,6 @@
    </div>
 </p>
 
-### 👨🏻‍💻 &nbsp;Sobre mí
-
 ## 🧑‍💻 Sobre mí
 
 💡 Apasionado por explorar nuevas tecnologías y construir soluciones de software útiles, eficientes y bien diseñadas.  
