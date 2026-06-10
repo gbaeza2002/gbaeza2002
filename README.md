@@ -44,7 +44,7 @@ Siempre buscando aprender algo nuevo y mejorar lo que ya existe.
 
 ✉️ Contáctame en: **gr4ciany@gmail.com**
 
-📄 Puedes ver más detalles en mi [currículum](https://drive.google.com/file/d/1JhD8xK3E2SquKn74JQL3PXTHHjl3c6kE/view?usp=sharing)
+📄 Puedes ver más detalles en mi [currículum](https://canva.link/a7jdc79ebtksm33)
 
 <div align="center">
   <h1 align="center">Stack</h1>
